@@ -1,4 +1,4 @@
-### AI & Data Engineer · RAG & LLM Evaluation · SQL, Snowflake & BI · Python
+### AI & Data Engineer · RAG & LLM Evaluation · SQL, Azure & BI · Python
 
 I build and test RAG systems, with a focus on measuring whether they actually work, not just whether they run. Freelance (B2B), based in the Netherlands, open to remote or NL hybrid.
 

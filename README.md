@@ -2,6 +2,8 @@
 
 I build and test RAG systems, with a focus on measuring whether they actually work, not just whether they run. Freelance (B2B), based in the Netherlands, open to remote or NL hybrid.
 
+**Website:** https://kitesystems.software
+
 **Start here:**
 - [rag-evaluation-llm-judge](https://github.com/regankight/rag-evaluation-llm-judge): which RAG evaluation can you trust? One prompt line cut answers to unanswerable questions from 58% to 24%.
 - [es-hybrid-retrieval-benchmark](https://github.com/regankight/es-hybrid-retrieval-benchmark): hybrid search on Elasticsearch beat keyword search by about 7%; a reranker added cost for no gain.
